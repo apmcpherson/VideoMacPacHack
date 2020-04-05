@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name VideoMacPac)(type KiCad)(uri ${KIPRJMOD}/VideoMacPac_footprints.pretty)(options "")(descr ""))
+)
