@@ -4,6 +4,8 @@ The VideoMacPacHack is a clone of the Video Mac Pac, a PDS video card for the Ma
 
 The VideoMacPacHack aims to replicate the Video Mac Pac using original parts where possible, with modern substitutions in  cases where original parts are hard to source (e.g. GAL, miniature relay), or where the original design was unknown (the video adapter board).
 
+![VideoMacPacHack](raw/master/photos/VideoMacPacHack_small.jpg)
+
 ## Contents
 
 * `hardware/VideoMacPac`: PCB design for the VideoMacPacHack, 4 layers, made in Kicad
