@@ -22,4 +22,4 @@ The VideoMacPacHack (like the original Video Mac Pac) requires its associated co
 
 The Video Mac Pac was created by Computer Care Inc. in 1991, apparently based on the Lapis DisplayServer.
 
-The VideoMacPacHack was designed by [Andrew McPherson](https://github.com/apmcpherson) and [Tom Stepleton](https://github.com/stepleton). In the interest of historical preservation it is released into the public domain, with no warranty of any sort.
+The VideoMacPacHack was designed by [Andrew McPherson](https://github.com/apmcpherson) with encouragement from [Tom Stepleton](https://github.com/stepleton) based on hardware in his collection. In the interest of historical preservation it is released into the public domain, with no warranty of any sort.

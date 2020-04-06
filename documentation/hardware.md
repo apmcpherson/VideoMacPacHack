@@ -37,7 +37,7 @@ For comparison, the Lapis DisplayServer-SE is also based on the XC2018. The SE-D
 
 ## VRAM
 
-The VMP uses four Micron `MT42C4064Z-10` 64kx4 VRAM ICs. These are in a 24-pin ZIP package (i.e. SIP with staggered leads). Each VRAM chip handles 4 bits of a 16-bit data word. 
+The VMP uses four Micron `MT42C4064Z-12` 64kx4 VRAM ICs. These are in a 24-pin ZIP package (i.e. SIP with staggered leads). Each VRAM chip handles 4 bits of a 16-bit data word. 
 
 The CPLD maps the VRAM to the memory address space from `$720000` to `$73FFFF` (128k bytes in total).
 
